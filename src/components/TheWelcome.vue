@@ -421,7 +421,7 @@ import { ref, onMounted } from 'vue';
 const domain = ref('toolpts-ai.pro')
 // Create a ref
 const loading = ref(false)
-const design = ref(3)
+const design = ref(1)
 
 const main_1 = ref(1)
 
